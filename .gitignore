@@ -3,4 +3,4 @@
 .idea/CS3244_Singlish_Embedding.iml
 .idea/workspace.xml
 .idea/vcs.xml
-.csv
+*.csv
